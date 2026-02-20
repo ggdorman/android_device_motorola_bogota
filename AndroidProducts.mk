@@ -6,9 +6,7 @@
 #
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/omni_bogota.mk
+    $(LOCAL_DIR)/twrp_bogota.mk
 
 COMMON_LUNCH_CHOICES := \
-    omni_bogota-user \
-    omni_bogota-userdebug \
-    omni_bogota-eng
+    twrp_bogota-eng

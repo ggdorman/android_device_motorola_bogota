@@ -1,4 +1,4 @@
-# Android device tree for motorola moto g73 5G (bogota)
+# Android device tree for motorola moto g56 5G (bogota)
 
 ```
 #
